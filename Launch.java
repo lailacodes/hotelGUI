@@ -345,8 +345,10 @@ public class Launch {
 					displayConfirmation(rType,arrival,departure,fName,lName);
 					break;
 				case "Deluxe":
+					displayConfirmation(rType,arrival,departure,fName,lName);
 					break;
 				case "Junior Suite":
+					displayConfirmation(rType,arrival,departure,fName,lName);
 					break;
 				}
 			}
